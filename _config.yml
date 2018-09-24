@@ -1,14 +1,14 @@
-title:             Clean Blog
-email:             your-email@example.com
-description:       A Blog Theme by Start Bootstrap
-author:            Start Bootstrap
+title:             Keeping up With Java - KUWJ
+#email:             your-email@example.com
+description:       Um Blog para se mantém informado com o mundo Java.
+author:            SouJava
 #baseurl:           "/startbootstrap-clean-blog-jekyll"
 url:               "http://kuwj.github.io"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username:  soujava
+github_username:   SouJava
+#facebook_username: StartBootstrap
 
 # Build settings
 markdown:          kramdown
