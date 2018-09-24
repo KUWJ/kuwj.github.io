@@ -1,6 +1,6 @@
-#title:             Keeping up With Java - KUWJ
+title:             Keeping up With Java - KUWJ
 #email:             your-email@example.com
-#description:       Um Blog para se mantém informado com o mundo Java.
+description:       Um Blog para se mantém informado com o mundo Java.
 author:            SouJava
 #baseurl:           "/startbootstrap-clean-blog-jekyll"
 url:               "http://kuwj.github.io"
